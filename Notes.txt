@@ -1,0 +1,18 @@
+set path="C:\Program Files\amazon-corretto-8.242.08.1-windows-x64-jdk\jdk1.8.0_242\bin"
+
+
+javac fileName.java
+
+java filename.java
+
+
+Eclipse IDE for Enterprise Java Developers:
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-06/R/eclipse-inst-win64.exe 
+
+
+
+
+
+ 
+simple automation fw creation:
+https://www.youtube.com/watch?v=LxJzeiTQGoE&list=PLFGoYjJG_fqo4oVsa6l_V-_7-tzBnlulT&index=31 
